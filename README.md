@@ -32,7 +32,7 @@
 - 🖥️ **Bash**: Scripting for Ubuntu and Red OS
 - 🔒 **Security**: Network technology, malware protection
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
-
+-->
 ## 🏆 Projects
 
 My top projects will be pinned here...
